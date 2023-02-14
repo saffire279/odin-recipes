@@ -1,1 +1,2 @@
 # odin-recipes
+This is one of my first real projects that seems fancy and I think I'm going to enjoy this. I really can't wait to get started with really creating things how I would like, and HTML is the first step towards this goal. I still need to learn the advanced aspects of the language, and then proceed on to Cascading Style Sheets, or CSS, but I am truly making progress here in regards to my knowledge three months ago. Wish me luck as I progress along my journey towards becoming a freelance web developer.
